@@ -1,0 +1,209 @@
+{
+  "cases": [
+    {
+      "text": "Take me from a vague problem all the way to a decision",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Run a full Panta Rhei session on my career",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Which thinking tool should I use for this?",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Walk me through this whole thing end to end, I want ideas and then a call",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "What's the capital of Australia?",
+      "expect": "none"
+    },
+    {
+      "text": "Fix this bug in my Python function",
+      "expect": "none"
+    },
+    {
+      "text": "Convert this PDF to Word",
+      "expect": "none"
+    },
+    {
+      "text": "Schedule a meeting with Mark on Friday",
+      "expect": "none"
+    },
+    {
+      "text": "Summarize this article",
+      "expect": "none"
+    },
+    {
+      "text": "Write a SQL query that groups sales by region",
+      "expect": "none"
+    },
+    {
+      "text": "Translate this paragraph into French",
+      "expect": "none"
+    },
+    {
+      "text": "Use Panta Rhei to work through whether to start a company",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "I want a full thinking session on my relationship with work, start to finish",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Take this problem from framing to a final decision: how to restructure my team",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Run the whole pipeline on my idea for a cooking app: frame it, generate ideas, stress-test, decide",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Which of the Panta Rhei skills should I use for this?",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "I don't know whether I need ideas, analysis or a decision. Which thinking tool fits?",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Walk me through problem to decision on moving cities",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Do a Panta Rhei session on my side project",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "End to end: help me clarify, brainstorm, challenge and choose for our pricing",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "pantarhei, I need the full treatment on this",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Guide me through the entire thinking process for picking a college major",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Start with the problem and take me all the way to a decision, with ideas and a red team in the middle",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Which thinking tool is right for 'my team is burned out'?",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Take the whole thing through every stage: I'm considering selling the business",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Give me a full session, I'll bring the problem",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Chain the thinking skills (reframe, brainstorm, challenge, decide) on whether to adopt a dog",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "I want to use Panta Rhei end to end on our strategy offsite agenda",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Which approach should I take: brainstorm, break it down, or decide? I'm not sure where I am",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "From problem to decision, the whole workflow, for choosing a CRM",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Run pantarhei-flow on my career change",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "Orchestrate a complete thinking session for me on whether to buy or rent",
+      "expect": "pantarhei-flow"
+    },
+    {
+      "text": "What's 17% of 2,340?",
+      "expect": "none"
+    },
+    {
+      "text": "Write a Python script that renames files by date",
+      "expect": "none"
+    },
+    {
+      "text": "What time is it in Tokyo?",
+      "expect": "none"
+    },
+    {
+      "text": "Merge these two PDFs into one",
+      "expect": "none"
+    },
+    {
+      "text": "Draft a Word document with a project status template",
+      "expect": "none"
+    },
+    {
+      "text": "What does the word 'ephemeral' mean?",
+      "expect": "none"
+    },
+    {
+      "text": "Move my 3pm meeting to Thursday",
+      "expect": "none"
+    },
+    {
+      "text": "Review this pull request for security issues",
+      "expect": "none"
+    },
+    {
+      "text": "Who won the World Cup in 2014?",
+      "expect": "none"
+    },
+    {
+      "text": "Explain what a mutex is",
+      "expect": "none"
+    },
+    {
+      "text": "Rewrite this email to sound more polite",
+      "expect": "none"
+    },
+    {
+      "text": "Give me a recipe for banana bread",
+      "expect": "none"
+    },
+    {
+      "text": "Convert 5 miles to kilometres",
+      "expect": "none"
+    },
+    {
+      "text": "Why is my React component re-rendering twice?",
+      "expect": "none"
+    },
+    {
+      "text": "Proofread this paragraph for typos",
+      "expect": "none"
+    },
+    {
+      "text": "Create a spreadsheet of my monthly expenses",
+      "expect": "none"
+    },
+    {
+      "text": "Find free time on my calendar next week",
+      "expect": "none"
+    },
+    {
+      "text": "Summarize the plot of Hamlet",
+      "expect": "none"
+    },
+    {
+      "text": "Should we ship this? Poke holes first.",
+      "expect": "pantarhei-flow",
+      "contested": true
+    }
+  ]
+}

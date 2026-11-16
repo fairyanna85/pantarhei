@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="186" viewBox="0 0 1200 186" role="img" aria-label="The Board: a sample output of Panta Rhei flow">
+<rect width="1200" height="186" rx="14" fill="#14161A"/>
+<circle cx="34" cy="34" r="6" fill="#F6F4EF"/><text x="52" y="39" font-family="'JetBrains Mono','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" fill="#A9B0BC" letter-spacing="1">THE BOARD</text>
+<text x="40" y="82" font-family="'JetBrains Mono','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" fill="#F6F4EF" xml:space="preserve">PANTA RHEI   ( REFRAME )──( BRAINSTORM )──( SOLVE )──( CHALLENGE )──( DECIDE )</text>
+<text x="40" y="104" font-family="'JetBrains Mono','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" fill="#F6F4EF" xml:space="preserve">                   ●                                                      </text>
+<text x="40" y="126" font-family="'JetBrains Mono','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" fill="#F6F4EF" xml:space="preserve">Route: REFRAME → BRAINSTORM → CHALLENGE → DECIDE   ·   SOLVE skipped (no diagnosis needed)</text>
+</svg>

@@ -1,0 +1,62 @@
+{
+  "name": "pantarhei",
+  "owner": {
+    "name": "fairyanna85"
+  },
+  "metadata": {
+    "description": "Panta Rhei: five thinking modules and the router that runs them end to end."
+  },
+  "plugins": [
+    {
+      "name": "pantarhei-reframe",
+      "source": {
+        "source": "github",
+        "repo": "fairyanna85/pantarhei-reframe"
+      },
+      "description": "Reframing and sense-making skill: find the real problem before you solve it.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pantarhei-brainstorm",
+      "source": {
+        "source": "github",
+        "repo": "fairyanna85/pantarhei-brainstorm"
+      },
+      "description": "Brainstorming and idea-generation skill: 30+ creativity methods dealt as a card deck.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pantarhei-solve",
+      "source": {
+        "source": "github",
+        "repo": "fairyanna85/pantarhei-solve"
+      },
+      "description": "Structured problem-solving and diagnosis skill: issue trees, root cause, ranked hypotheses.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pantarhei-challenge",
+      "source": {
+        "source": "github",
+        "repo": "fairyanna85/pantarhei-challenge"
+      },
+      "description": "Critical-thinking skill: red-team an idea, plan or claim before it costs you.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pantarhei-decide",
+      "source": {
+        "source": "github",
+        "repo": "fairyanna85/pantarhei-decide"
+      },
+      "description": "Decision-making skill: a council of frameworks that weighs the numbers and the human factors.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pantarhei-flow",
+      "source": "./",
+      "description": "Panta Rhei: the thinking pack. Routes any problem to the right module and runs full sessions.",
+      "version": "0.1.0"
+    }
+  ]
+}
