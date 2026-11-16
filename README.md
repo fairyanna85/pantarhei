@@ -15,8 +15,6 @@ A thinking-skills pack for Claude, Claude Code and Hermes: reframe, brainstorm, 
 
 Real problems rarely need one method: they need the right problem, then options, then a cause or a test, then a call. Panta Rhei routes a request to the right module, or runs several in order, handing each stage's output to the next. Installed alone it still works, with a compact fallback for any module that is missing.
 
-<p align="center"><img src="assets/demo.gif" alt="A full Panta Rhei session: the board lights each stage in turn, from a reframed problem to a decision with kill criteria" width="85%"></p>
-
 ## Try it
 
 Say any of these after installing:
